@@ -62,7 +62,7 @@ HTTPS connection (required for camera API)
 Feel free to fork the project and submit pull requests with improvements!
 
 ## 📄 License
-MIT License - feel free to use this project for personal or commercial purposes.
+Feel free to use this project for personal or commercial purposes.
 
 ## 
 _Created by **Talha Salman**_
